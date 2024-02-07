@@ -3,3 +3,4 @@ fabrication/
 bom/
 */*-backups/
 **.bak
+.DS_Store
